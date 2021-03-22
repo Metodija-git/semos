@@ -12,3 +12,5 @@ Academy:JavaScript
 Semos Education generation 13
 
 onlineComunication tool:Microsoft Teams
+
+added data from new branch
