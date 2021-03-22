@@ -1,2 +1,14 @@
-Hello there
+Hello there students
+
+data from new branch
+
+Course:Git and GitHub
+
+files
+
+Academy:JavaScript
+
+
 Semos Education generation 13
+
+onlineComunication tool:Microsoft Teams
